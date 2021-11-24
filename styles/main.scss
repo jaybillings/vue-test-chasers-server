@@ -1,0 +1,37 @@
+html {
+  font-family: Avenir, Helvetica, Arial, sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-align: center;
+  color: #2c3e50;
+  font-size: 16px;
+  font-style: sans-serif;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: #e3e3e3;
+  margin: 0 0 2rem;
+
+  h1 {
+    margin: 0;
+    padding: 3rem;
+    color: #888;
+    text-shadow: 1px 1px 2px #666;
+  }
+}
+
+footer {
+  background-color: #777;
+  color: white;
+  padding: 3rem;
+  margin-top: 2rem;
+}
+
+iframe {
+  border: none;
+  width: 100%;
+}
